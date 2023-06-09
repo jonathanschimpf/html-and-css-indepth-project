@@ -53,6 +53,7 @@ body {
   color: #080808;
   padding:.5em 0
 }
+
 .nav a::before {
   content: "";
   position: absolute;
@@ -72,6 +73,7 @@ body {
 .nav a:hover {
   color: #009999; 
   transition-delay: 0.2s;
+}
 
   /* -- </nav> -- */
 }
