@@ -80,8 +80,6 @@ Shoot me an e-mail! => jonathan@jonathanschimpf.com
 
 <p>&nbsp;<p>
 
-[My GitHub](http://github.com/jonathanschimpf)
 
-<p>&nbsp;<p>
 
 
